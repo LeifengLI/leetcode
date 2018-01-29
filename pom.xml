@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>twoSum</module>
+    <module>_3Sum</module>
   </modules>
   <packaging>pom</packaging>
 
