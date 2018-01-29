@@ -8,6 +8,7 @@
   <modules>
     <module>twoSum</module>
     <module>_3Sum</module>
+    <module>RemoveDuplicatesfromSortedArray</module>
   </modules>
   <packaging>pom</packaging>
 
