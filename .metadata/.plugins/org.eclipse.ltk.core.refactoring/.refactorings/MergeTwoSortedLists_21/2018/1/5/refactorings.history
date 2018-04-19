@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;mergeTwoLists&apos; from expression &apos;app.mergeTwoLists(l1,l2)&apos;&#x0D;&#x0A;- Original project: &apos;MergeTwoSortedLists_21&apos;&#x0D;&#x0A;- Variable name: &apos;mergeTwoLists&apos;&#x0D;&#x0A;- Destination method: &apos;com.lishon.leetcode.App.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;app.mergeTwoLists(l1,l2)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;mergeTwoLists&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.lishon.leetcode{App.java" name="mergeTwoLists" replace="true" selection="1555 0" stamp="1517292844483" version="1.0"/>
+</session>

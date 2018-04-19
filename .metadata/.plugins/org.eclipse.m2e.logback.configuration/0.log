@@ -1,0 +1,366 @@
+2018-01-30 12:23:22,104 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2018-01-30 12:23:22,844 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2018-01-30 12:23:23,429 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2018-01-30 12:23:23,963 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2018-01-30 12:23:25,355 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2018-01-30 12:23:25,868 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2018-01-30 12:23:26,125 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2018-01-30 12:23:26,830 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2018-01-30 12:23:27,085 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2018-01-30 12:23:27,583 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2018-01-30 12:23:27,872 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2018-01-30 12:23:28,358 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2018-01-30 12:23:28,617 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2018-01-30 12:23:29,050 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2018-01-30 12:23:29,292 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2018-01-30 12:23:29,782 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2018-01-30 12:23:30,085 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2018-01-30 12:23:30,786 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2018-01-30 12:23:30,995 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2018-01-30 12:23:31,453 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2018-01-30 12:23:31,693 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2018-01-30 12:23:32,349 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2018-01-30 12:23:32,788 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:twoSum:1.0-SNAPSHOT @ E:\leetcode\twoSum\pom.xml.
+2018-01-30 12:23:32,877 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:3Sum:1.0-SNAPSHOT @ E:\leetcode\_3Sum\pom.xml.
+2018-01-30 12:23:32,928 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:RemoveDuplicatesfromSortedArray:1.0-SNAPSHOT @ E:\leetcode\RemoveDuplicatesfromSortedArray\pom.xml.
+2018-01-30 12:23:32,979 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:Palindromic_5:1.0-SNAPSHOT @ E:\leetcode\Palindromic_5\pom.xml.
+2018-01-30 12:23:33,026 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:ReverseInteger_7:1.0-SNAPSHOT @ E:\leetcode\ReverseInteger_7\pom.xml.
+2018-01-30 12:23:33,075 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:PalindromeNumber_9:1.0-SNAPSHOT @ E:\leetcode\PalindromeNumber_9\pom.xml.
+2018-01-30 12:23:33,128 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:RemoveElement_27:1.0-SNAPSHOT @ E:\leetcode\RemoveElement_27\pom.xml.
+2018-01-30 12:23:33,187 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:ValidParentheses_20:1.0-SNAPSHOT @ E:\leetcode\ValidParentheses_20\pom.xml.
+2018-01-30 12:23:33,246 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:MergeTwoSortedLists_21:1.0-SNAPSHOT @ E:\leetcode\MergeTwoSortedLists_21\pom.xml.
+2018-01-30 12:23:34,975 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:MergeTwoSortedLists_21:1.0-SNAPSHOT @ E:\leetcode\MergeTwoSortedLists_21\pom.xml.
+2018-01-30 12:23:34,989 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RemoveElement_27/src/main/java
+2018-01-30 12:23:34,995 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RemoveElement_27/src/test/java
+2018-01-30 12:23:35,065 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:PalindromeNumber_9:1.0-SNAPSHOT @ E:\leetcode\PalindromeNumber_9\pom.xml.
+2018-01-30 12:23:35,144 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:Palindromic_5:1.0-SNAPSHOT @ E:\leetcode\Palindromic_5\pom.xml.
+2018-01-30 12:23:35,219 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:RemoveDuplicatesfromSortedArray:1.0-SNAPSHOT @ E:\leetcode\RemoveDuplicatesfromSortedArray\pom.xml.
+2018-01-30 12:23:35,303 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:RemoveElement_27:1.0-SNAPSHOT @ E:\leetcode\RemoveElement_27\pom.xml.
+2018-01-30 12:23:35,394 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:ReverseInteger_7:1.0-SNAPSHOT @ E:\leetcode\ReverseInteger_7\pom.xml.
+2018-01-30 12:23:35,470 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:ValidParentheses_20:1.0-SNAPSHOT @ E:\leetcode\ValidParentheses_20\pom.xml.
+2018-01-30 12:23:35,559 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:3Sum:1.0-SNAPSHOT @ E:\leetcode\_3Sum\pom.xml.
+2018-01-30 12:23:35,624 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:twoSum:1.0-SNAPSHOT @ E:\leetcode\twoSum\pom.xml.
+2018-01-30 12:23:36,418 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /twoSum/src/main/java
+2018-01-30 12:23:36,423 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /twoSum/src/test/java
+2018-01-30 12:23:36,484 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /_3Sum/src/main/java
+2018-01-30 12:23:36,486 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /_3Sum/src/test/java
+2018-01-30 12:23:36,539 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RemoveDuplicatesfromSortedArray/src/main/java
+2018-01-30 12:23:36,542 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RemoveDuplicatesfromSortedArray/src/test/java
+2018-01-30 12:23:36,605 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReverseInteger_7/src/main/java
+2018-01-30 12:23:36,608 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReverseInteger_7/src/test/java
+2018-01-30 12:23:36,669 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PalindromeNumber_9/src/main/java
+2018-01-30 12:23:36,673 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PalindromeNumber_9/src/test/java
+2018-01-30 12:23:36,732 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Palindromic_5/src/main/java
+2018-01-30 12:23:36,735 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Palindromic_5/src/test/java
+2018-01-30 12:23:36,796 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ValidParentheses_20/src/main/java
+2018-01-30 12:23:36,799 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ValidParentheses_20/src/test/java
+2018-01-30 12:23:36,846 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MergeTwoSortedLists_21/src/main/java
+2018-01-30 12:23:36,846 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MergeTwoSortedLists_21/src/test/java
+2018-01-30 12:23:36,887 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 9 project(s) in 16 sec
+2018-01-30 12:23:39,126 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:MergeTwoSortedLists_21:1.0-SNAPSHOT @ E:\leetcode\MergeTwoSortedLists_21\pom.xml.
+2018-01-30 12:23:39,234 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,235 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 12:23:39,238 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,238 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 12:23:39,535 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:PalindromeNumber_9:1.0-SNAPSHOT @ E:\leetcode\PalindromeNumber_9\pom.xml.
+2018-01-30 12:23:39,586 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,587 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\PalindromeNumber_9\src\main\resources
+2018-01-30 12:23:39,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,590 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\PalindromeNumber_9\src\test\resources
+2018-01-30 12:23:39,724 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:Palindromic_5:1.0-SNAPSHOT @ E:\leetcode\Palindromic_5\pom.xml.
+2018-01-30 12:23:39,794 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,795 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\Palindromic_5\src\main\resources
+2018-01-30 12:23:39,799 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,799 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\Palindromic_5\src\test\resources
+2018-01-30 12:23:39,924 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:RemoveDuplicatesfromSortedArray:1.0-SNAPSHOT @ E:\leetcode\RemoveDuplicatesfromSortedArray\pom.xml.
+2018-01-30 12:23:39,983 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,983 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveDuplicatesfromSortedArray\src\main\resources
+2018-01-30 12:23:39,984 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:39,984 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveDuplicatesfromSortedArray\src\test\resources
+2018-01-30 12:23:40,102 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:RemoveElement_27:1.0-SNAPSHOT @ E:\leetcode\RemoveElement_27\pom.xml.
+2018-01-30 12:23:40,152 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,152 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveElement_27\src\main\resources
+2018-01-30 12:23:40,153 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,153 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveElement_27\src\test\resources
+2018-01-30 12:23:40,253 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:ReverseInteger_7:1.0-SNAPSHOT @ E:\leetcode\ReverseInteger_7\pom.xml.
+2018-01-30 12:23:40,289 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,289 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ReverseInteger_7\src\main\resources
+2018-01-30 12:23:40,290 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,291 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ReverseInteger_7\src\test\resources
+2018-01-30 12:23:40,386 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:ValidParentheses_20:1.0-SNAPSHOT @ E:\leetcode\ValidParentheses_20\pom.xml.
+2018-01-30 12:23:40,424 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,425 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ValidParentheses_20\src\main\resources
+2018-01-30 12:23:40,426 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,426 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ValidParentheses_20\src\test\resources
+2018-01-30 12:23:40,615 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:3Sum:1.0-SNAPSHOT @ E:\leetcode\_3Sum\pom.xml.
+2018-01-30 12:23:40,661 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,661 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\_3Sum\src\main\resources
+2018-01-30 12:23:40,665 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,665 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\_3Sum\src\test\resources
+2018-01-30 12:23:40,762 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:twoSum:1.0-SNAPSHOT @ E:\leetcode\twoSum\pom.xml.
+2018-01-30 12:23:40,802 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,802 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\twoSum\src\main\resources
+2018-01-30 12:23:40,803 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:23:40,803 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\twoSum\src\test\resources
+2018-01-30 12:24:15,053 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-30 12:24:15,124 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:MergeTwoSortedLists_21:1.0-SNAPSHOT @ E:\leetcode\MergeTwoSortedLists_21\pom.xml.
+2018-01-30 12:24:15,173 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MergeTwoSortedLists_21/src/main/java
+2018-01-30 12:24:15,173 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MergeTwoSortedLists_21/src/test/java
+2018-01-30 12:24:15,266 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-01-30 12:24:15,444 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:24:15,444 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 12:24:15,446 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:24:15,447 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 12:25:02,547 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lishon.leetcode:MergeTwoSortedLists_21:1.0-SNAPSHOT @ E:\leetcode\MergeTwoSortedLists_21\pom.xml.
+2018-01-30 12:25:02,663 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:25:02,663 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 12:25:02,665 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:25:02,665 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 13:58:56,609 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:58:56,610 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 13:58:56,611 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:58:56,611 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 13:59:02,665 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,665 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 13:59:02,666 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,666 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 13:59:02,694 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,694 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\PalindromeNumber_9\src\main\resources
+2018-01-30 13:59:02,696 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,696 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\PalindromeNumber_9\src\test\resources
+2018-01-30 13:59:02,716 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,716 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\Palindromic_5\src\main\resources
+2018-01-30 13:59:02,717 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,717 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\Palindromic_5\src\test\resources
+2018-01-30 13:59:02,736 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,737 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveDuplicatesfromSortedArray\src\main\resources
+2018-01-30 13:59:02,738 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,738 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveDuplicatesfromSortedArray\src\test\resources
+2018-01-30 13:59:02,759 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,759 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveElement_27\src\main\resources
+2018-01-30 13:59:02,760 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,760 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\RemoveElement_27\src\test\resources
+2018-01-30 13:59:02,803 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,804 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ReverseInteger_7\src\main\resources
+2018-01-30 13:59:02,805 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,805 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ReverseInteger_7\src\test\resources
+2018-01-30 13:59:02,830 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,830 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ValidParentheses_20\src\main\resources
+2018-01-30 13:59:02,833 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,833 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\ValidParentheses_20\src\test\resources
+2018-01-30 13:59:02,857 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,857 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\_3Sum\src\main\resources
+2018-01-30 13:59:02,859 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,859 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\_3Sum\src\test\resources
+2018-01-30 13:59:02,881 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,881 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\twoSum\src\main\resources
+2018-01-30 13:59:02,883 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:02,883 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\twoSum\src\test\resources
+2018-01-30 13:59:52,581 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:52,581 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 13:59:52,582 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:59:52,582 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:14:36,274 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:14:36,274 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:14:36,276 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:14:36,276 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:15:08,803 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:15:08,803 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:15:08,804 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:15:08,804 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:15:18,370 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:15:18,370 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:15:18,372 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:15:18,373 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:16:00,087 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:16:00,087 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:16:00,089 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:16:00,090 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:18:04,207 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:18:04,207 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:18:04,209 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:18:04,209 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:19:08,865 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:19:08,865 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:19:08,866 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:19:08,867 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:19:44,750 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:19:44,750 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:19:44,751 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:19:44,751 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:21:48,881 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:21:48,881 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:21:48,884 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:21:48,884 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:28:34,527 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:28:34,527 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:28:34,528 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:28:34,528 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:31:26,659 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:31:26,659 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:31:26,660 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:31:26,661 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:32:01,643 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:32:01,643 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:32:01,645 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:32:01,645 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:32:46,765 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:32:46,765 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:32:46,767 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:32:46,767 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:39:52,204 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:39:52,205 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:39:52,206 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:39:52,206 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:46:43,642 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:46:43,642 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:46:43,644 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:46:43,644 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:47:47,002 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:47:47,002 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:47:47,003 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:47:47,003 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:49:14,691 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:49:14,691 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:49:14,693 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:49:14,693 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 14:58:37,804 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:58:37,804 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 14:58:37,808 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:58:37,808 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:03:22,127 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:03:22,128 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:03:22,129 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:03:22,129 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:05:10,994 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:05:10,994 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:05:10,995 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:05:10,995 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:05:30,072 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:05:30,072 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:05:30,074 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:05:30,074 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:07:52,493 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:07:52,493 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:07:52,495 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:07:52,495 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:12:07,547 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:12:07,547 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:12:07,549 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:12:07,549 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:12:33,604 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:12:33,604 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:12:33,606 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:12:33,606 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:13:26,525 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:13:26,526 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:13:26,531 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:13:26,532 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:14:29,908 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:14:29,908 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:14:29,910 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:14:29,910 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:15:21,869 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:15:21,869 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:15:21,870 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:15:21,870 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:15:40,521 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:15:40,521 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:15:40,523 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:15:40,523 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:15:50,335 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:15:50,335 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:15:50,336 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:15:50,336 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:16:00,367 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:00,367 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:16:00,368 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:00,368 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:16:11,411 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:11,411 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:16:11,413 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:11,413 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:16:14,925 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:14,926 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:16:14,927 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:14,927 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:16:17,452 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:17,453 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:16:17,455 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:16:17,455 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:19:40,917 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:19:40,918 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:19:40,919 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:19:40,919 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:19:49,701 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:19:49,701 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:19:49,702 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:19:49,702 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:21:37,221 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:21:37,222 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:21:37,223 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:21:37,224 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:23:02,708 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:23:02,709 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:23:02,710 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:23:02,710 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:34:02,032 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:02,033 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:34:02,035 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:02,035 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:34:18,480 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:18,480 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:34:18,481 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:18,482 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:34:27,086 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:27,086 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:34:27,089 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:27,089 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:34:34,146 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:34,146 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:34:34,147 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:34:34,147 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:35:43,948 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:35:43,948 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:35:43,949 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:35:43,949 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:35:53,714 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:35:53,714 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:35:53,716 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:35:53,716 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:41:15,420 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:15,420 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:41:15,421 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:15,421 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:41:27,789 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:27,789 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:41:27,792 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:27,793 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:41:36,073 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:36,074 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:41:36,076 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:36,076 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:41:45,686 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:45,686 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:41:45,688 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:41:45,688 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:42:43,026 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:42:43,026 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:42:43,028 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:42:43,028 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:43:25,459 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:43:25,459 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:43:25,460 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:43:25,461 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:43:29,416 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:43:29,417 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:43:29,419 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:43:29,419 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:43:52,799 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:43:52,799 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:43:52,801 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:43:52,801 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources
+2018-01-30 15:46:09,509 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:46:09,509 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\main\resources
+2018-01-30 15:46:09,510 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 15:46:09,510 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\leetcode\MergeTwoSortedLists_21\src\test\resources

@@ -9,6 +9,16 @@
     <module>twoSum</module>
     <module>_3Sum</module>
     <module>RemoveDuplicatesfromSortedArray</module>
+      <module>Palindromic_5</module>
+      <module>ReverseInteger_7</module>
+    <module>PalindromeNumber_9</module>
+      <module>RemoveElement_27</module>
+      <module>ValidParentheses_20</module>
+      <module>MergeTwoSortedLists_21</module>
+    <module>plusOne_66</module>
+    <module>array</module>
+    <module>fas</module>
+      <module>ddd</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -34,4 +44,20 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.3</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+          <showWarnings>true</showWarnings>
+          <encoding>UTF-8</encoding>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
 </project>

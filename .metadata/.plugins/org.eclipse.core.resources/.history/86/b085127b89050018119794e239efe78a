@@ -1,0 +1,66 @@
+package com.lishon.leetcode;
+
+/**
+ * @author lishon
+ * @create 2018-01-30 13:18
+ **/
+
+//  Definition for singly-linked list.
+  class ListNode {
+      int val;
+      ListNode next;
+      ListNode(int x) { val = x; }
+  }
+ 
+public class App {
+	 public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+		 	ListNode result = new ListNode(0);
+		 	ListNode tail = result.next;
+	        ListNode c = null;
+	        ListNode pointer = null;
+	        while (l1 !=null || l2 != null) {
+	             if (l1 != null && l2 != null) {
+	                if (l1.val <= l2.val) {
+	                    c = l1;
+	                    l1 = l1.next;
+	                } else {
+	                    c = l2;
+	                    l2 = l2.next;
+	                }
+	             
+	            } else if (l2 == null) {
+	                c=l2; 
+	                break;
+	            } else {
+	                c = l1;
+	                break;
+	            }
+	            pointer = tail;
+	            tail.next = c;
+	            tail = tail.next;
+	         }
+	     
+	        return result.next;
+	        
+	    }
+    
+    public static void main(String[] args) {
+		ListNode l1 = new ListNode(1);
+		ListNode l11 = new ListNode(2);
+		ListNode l111 = new ListNode(4);
+		l1.next = l11;
+		l11.next = l111;
+		
+		ListNode l2 = new ListNode(1);
+		ListNode l22 = new ListNode(2);
+		ListNode l222 = new ListNode(4);
+		l2.next = l22;
+		l22.next = l222;
+		
+		App app = new App();
+		ListNode mergeTwoLists = app.mergeTwoLists(l1, l2);
+		if(mergeTwoLists.next != null) {
+			System.out.println(mergeTwoLists.val);
+		}
+	}
+}
